@@ -5,7 +5,7 @@
 <picture> <img align="right" src="https://user-images.githubusercontent.com/79373383/211147526-f781ee14-445b-43f3-8615-f24738e97767.gif" width = 250px></picture>
 
 
-- 🔭 I’m currently working as a DevOps Engineer.
+- 🔭 I’m currently working as a Software Engineer.
 - 🌱 I’m currently learning AWS cloud
 - 💬 Ask me about Linux, Docker, Kubernetes, and Terraform.
 
